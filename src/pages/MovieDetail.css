@@ -1,0 +1,46 @@
+
+.movie-detail-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(2, 2, 2);
+    color: white;
+  }
+  
+  .movie-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: red;
+  }
+  
+  .movie-image {
+    max-width: 30%;
+    height: auto;
+    margin-bottom: 10px;
+    border: 2px solid red;
+  }
+  
+  .movie-rating {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: red;
+  }
+  
+  .movie-author {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: red;
+  }
+  
+  .movie-genres {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: red;
+  }
+  
+  .movie-plot-summary {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: red;
+  }
+  
